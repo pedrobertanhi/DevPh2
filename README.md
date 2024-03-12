@@ -9,6 +9,8 @@
 
 #### 🧑‍🎓 Estou Aprendendo sobre essas tecnologias abaixo
 
+![Porcentagem Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <div style="display: inline_block"><br/>
 <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whitee">
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
